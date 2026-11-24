@@ -6,12 +6,10 @@ By day I'm a full-stack developer at **CloudAPPi**, working with Angular, Next.j
 
 **What I'm building**
 
-| | |
-| --- | --- |
-| [**Viaondo**](https://viaondo.com) | Branded, offline-ready trip app for small travel agencies |
-| [**CitedIn**](https://citedin.io) | Tracks whether ChatGPT, Gemini, Perplexity and Google AI recommend your business, and prepares the fixes |
-| [**Pulse**](https://github.com/pablobravo44/pulse-analytics-cloudflare) | Open-source, cookieless web analytics + uptime + MCP server on a single Cloudflare Worker |
-| [**Cartelera Valladolid**](https://carteleravalladolid.com) | Fast showtimes for every cinema in Valladolid |
+- [**Viaondo**](https://viaondo.com): branded, offline-ready trip app for small travel agencies
+- [**CitedIn**](https://citedin.io): tracks whether ChatGPT, Gemini, Perplexity and Google AI recommend your business, and prepares the fixes
+- [**Pulse**](https://github.com/pablobravo44/pulse-analytics-cloudflare): open-source, cookieless web analytics, uptime and an MCP server on a single Cloudflare Worker
+- [**Cartelera Valladolid**](https://carteleravalladolid.com): fast showtimes for every cinema in Valladolid
 
 **Stack**
 
