@@ -1,0 +1,22 @@
+### Hi, I'm Pablo
+
+Full-stack developer from Valladolid, Spain. I've been building web products end to end since 2020: the interface, the API, the database, the deploy, and keeping it all running in production.
+
+By day I'm a full-stack developer at **CloudAPPi**, working with Angular, Next.js and Node.js. Outside work I build and run my own products.
+
+**What I'm building**
+
+| | |
+| --- | --- |
+| [**Viaondo**](https://viaondo.com) | Branded, offline-ready trip app for small travel agencies |
+| [**CitedIn**](https://citedin.io) | Tracks whether ChatGPT, Gemini, Perplexity and Google AI recommend your business, and prepares the fixes |
+| [**Pulse**](https://github.com/pablobravo44/pulse-analytics-cloudflare) | Open-source, cookieless web analytics + uptime + MCP server on a single Cloudflare Worker |
+| [**Cartelera Valladolid**](https://carteleravalladolid.com) | Fast showtimes for every cinema in Valladolid |
+
+**Stack**
+
+<a href="https://pablobravo44.dev/#stack"><img src="https://skillicons.dev/icons?i=ts,react,nextjs,angular,nodejs,laravel,php,tailwind,mysql,docker,cloudflare,githubactions&perline=12" alt="TypeScript, React, Next.js, Angular, Node.js, Laravel, PHP, Tailwind CSS, MySQL, Docker, Cloudflare, GitHub Actions" /></a>
+
+**Elsewhere**
+
+[pablobravo44.dev](https://pablobravo44.dev) · [LinkedIn](https://www.linkedin.com/in/pablo-bravo-9aa599188/) · [pablobravo44@gmail.com](mailto:pablobravo44@gmail.com)
