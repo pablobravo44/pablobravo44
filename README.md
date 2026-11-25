@@ -15,4 +15,4 @@ Full-stack developer from Spain. I've been programming and building since 2020
 
 **Elsewhere**
 
-[pablobravo44.dev](https://pablobravo44.dev) · [LinkedIn](https://www.linkedin.com/in/pablo-bravo-9aa599188/) · [pablobravo44@gmail.com](mailto:pablobravo44@gmail.com)
+[pablobravo44.dev](https://pablobravo44.dev) · [LinkedIn](https://www.linkedin.com/in/pablobravo44) · [pablobravo44@gmail.com](mailto:pablobravo44@gmail.com)
