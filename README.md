@@ -1,8 +1,6 @@
 ### Hi, I'm Pablo
 
-Full-stack developer from Valladolid, Spain. I've been building web products end to end since 2020: the interface, the API, the database, the deploy, and keeping it all running in production.
-
-By day I'm a full-stack developer at **CloudAPPi**, working with Angular, Next.js and Node.js. Outside work I build and run my own products.
+Full-stack developer from Spain. I've been programming and building since 2020
 
 **What I'm building**
 
